@@ -1,1 +1,1 @@
-A sub directory of this lesson
+0x00-shell_basics
